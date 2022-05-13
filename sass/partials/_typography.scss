@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "Urbanist", Arial, Helvetica, sans-serif;
+    src: url(/font/Urbanist/Urbanist-VariableFont_wght.ttf);
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  p {
+    font-family: "Urbanist", Arial, sans-serif;
+  }
+  
+  h1 {
+    font-size: 40px;
+    text-align: center;
+    margin: 20px;
+  }
+  
+  h2 {
+    font-size: 30px;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+  }
