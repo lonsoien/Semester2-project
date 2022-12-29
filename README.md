@@ -44,8 +44,13 @@ The website must be responsive on all devices.
    - Netlify
    - Cloudinary
     
-   # Setup 
-   - This repository can be cloned to visual code or downladed. 
+## Setup 
+   
+    - This repository can be cloned to visual code or downladed. 
+   
+    To Run:
+     npm install
+     npm run develop
     
     
    # Summary 
