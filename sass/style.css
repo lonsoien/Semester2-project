@@ -1,1 +1,138 @@
-/*# sourceMappingURL=style.css.map */
+/* Admin page*/
+
+.form-group {
+    width: 50%;
+    padding: 10px;
+  }
+  
+  .btn-primary {
+    margin: 15px;
+  }
+  
+  .message-container {
+    width: 150px;
+  }
+  
+  .message {
+    width: 100%;
+    padding: 1rem;
+    border: 1px solid grey;
+    color: grey;
+  }
+  
+  .message.error {
+    border-color: red;
+    color: white;
+    background: red;
+  }
+  
+  .message.warning {
+    border-color: orange;
+    color: white;
+    background: orange;
+  }
+  
+  .message.success {
+    border-color: green;
+    color: white;
+    background: green;
+  }
+
+  /* Home page*/
+
+  .hero-banner img {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .img-logo {
+    width: 75px;
+    height: 55px;
+    margin: 20px;
+  }
+  
+  .brands-logo {
+    text-align: center;
+  }
+
+  /* Nav */
+
+  .navbar {
+    background-color: black !important;
+  }
+  
+  .nav-link {
+    color: white !important;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+  
+  .btn {
+    color: black !important;
+  }
+  
+  .btn-outline-success {
+    background-color: yellow !important;
+    border-style: none;
+    border-radius: 5px 5px 5px 5px !important;
+  }
+
+  /* Products page */
+
+  .container-products img {
+    height: 250px;
+    width: 270px;
+    margin: 10px;
+    border-radius: 15px 15px 15px 15px;
+  }
+  
+  .container-products h4 {
+    font-family: "Urbanist", Arial, sans-serif;
+    font-size: 30px;
+    color: black;
+    margin-left: 30px;
+  }
+  
+  .container-products p {
+    font-family: "Urbanist", Arial, sans-serif;
+    font-size: 20px;
+    color: black;
+    margin: 10px;
+  }
+
+  /* Typo */
+
+  @font-face {
+    font-family: "Urbanist", Arial, Helvetica, sans-serif;
+    src: url(/font/Urbanist/Urbanist-VariableFont_wght.ttf);
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  p {
+    font-family: "Urbanist", Arial, sans-serif;
+  }
+  
+  h1 {
+    font-size: 40px;
+    text-align: center;
+    margin: 20px;
+  }
+  
+  h2 {
+    font-size: 30px;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+  }
+
+  /* Variables */
+
+  {
+    box-sizing: border-box;
+    margin: 0px;
+  }
