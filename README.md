@@ -28,7 +28,7 @@ The website must be responsive on all devices.
     - Sass
     - Google fonts
     - GitHub
-    - Wordpress
+    - Strapi API
     
     
   # Design 
